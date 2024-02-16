@@ -1,0 +1,21 @@
+.bannerbotton{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between ;
+    padding: 10px;
+    text-align: right;
+    
+}
+.width{
+    width: 45%;
+}
+.width2{
+    width: 45%;
+}
+@media (max-width: 760px) {
+    .bannerbotton{
+       flex-direction: column;
+        
+    }
+   
+  }

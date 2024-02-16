@@ -17,7 +17,7 @@ body {
 .swiper {
   width: 100%;
   height: 100%;
-  background:#f8c291;
+  /* background:#f8c291; */
 }
 
 .swiper-slide {
@@ -70,6 +70,12 @@ body {
   border: none;
   margin-top: 15px;
   color: white;
+}
+.bgggg{
+  background-color: blueviolet;
+}
+.bg2{
+  background-color: aquamarine;
 }
 @media (max-width: 760px) {
   .flexx{

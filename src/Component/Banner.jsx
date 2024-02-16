@@ -39,7 +39,7 @@ const Banner = () => {
             }}
             data-swiper-parallax="-23%"
           ></div>
-          <SwiperSlide>
+          <SwiperSlide className='bgggg'>
             <div className='flexx'>
             <div className="title" data-swiper-parallax="-300">
             50% off in all products
@@ -52,7 +52,7 @@ const Banner = () => {
             </div>
                      
           </SwiperSlide>
-          <SwiperSlide>
+          <SwiperSlide className='bg2'>
             <div className='flexx'>
             <div className="title" data-swiper-parallax="-300">
             50% off in all products
